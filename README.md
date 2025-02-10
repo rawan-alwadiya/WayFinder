@@ -1,16 +1,25 @@
-# maps
+# WayFinder: Interactive Map & Navigation App
 
-A new Flutter project.
+*WayFinder* is a *Flutter-based* mobile application that provides a seamless and interactive *map experience* using *Google Maps* and *Google Cloud services*. It enables users to explore locations, place custom markers, visualize routes, and track real-time movement.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+- * Custom Markers*: Add and manage personalized location markers.
+- * Route Visualization*: Display polylines for optimized navigation paths.
+- * Real-Time Location Tracking*: Continuously update and display user location.
+- * Location Search*: Integrated with Google Places API for quick search results.
+- * Dynamic Map Interactions*:  
+  - Pinch-to-zoom  
+  - Marker tap events  
+  - Smooth navigation animations  
+- * Google Cloud Services Integration*: Ensures accurate geolocation and map rendering.  
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- *Flutter & Dart*
+- *Google Maps API*
+- *Google Places API*
+- *Geolocator for GPS Tracking*
+- *Provider for State Management*
+- *Polylines for Route Visualization*
+- *Firebase (Optional for Real-Time Data Updates)*  
