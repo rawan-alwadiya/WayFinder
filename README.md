@@ -4,22 +4,32 @@
 
 ## Key Features
 
-- * Custom Markers*: Add and manage personalized location markers.
-- * Route Visualization*: Display polylines for optimized navigation paths.
-- * Real-Time Location Tracking*: Continuously update and display user location.
-- * Location Search*: Integrated with Google Places API for quick search results.
-- * Dynamic Map Interactions*:  
+- *Custom Markers*  
+  - Add and manage personalized location markers.  
+
+- *Route Visualization*  
+  - Display polylines for optimized navigation paths.  
+
+- *Real-Time Location Tracking*  
+  - Continuously update and display user location.  
+
+- *Location Search*  
+  - Integrated with Google Places API for quick search results.  
+
+- *Dynamic Map Interactions*  
   - Pinch-to-zoom  
   - Marker tap events  
   - Smooth navigation animations  
-- * Google Cloud Services Integration*: Ensures accurate geolocation and map rendering.  
+
+- *Google Cloud Services Integration*  
+  - Ensures accurate geolocation and map rendering.  
 
 ## Technologies Used
 
-- *Flutter & Dart*
-- *Google Maps API*
-- *Google Places API*
-- *Geolocator for GPS Tracking*
-- *Provider for State Management*
-- *Polylines for Route Visualization*
-- *Firebase (Optional for Real-Time Data Updates)*  
+- *Flutter & Dart*  
+- *Google Maps API*  
+- *Google Places API*  
+- *Geolocator for GPS Tracking*  
+- *Provider for State Management*  
+- *Polylines for Route Visualization*  
+- *Firebase (Optional for Real-Time Data Updates)*
